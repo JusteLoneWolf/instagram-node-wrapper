@@ -1,0 +1,24 @@
+{
+  "name": "instagram-node-wrapper",
+  "version": "1.0.3",
+  "description": "A simply wrapper to get user information on instagram",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zechaos031/instagram-node-wrapper"
+  },
+  "keywords": [
+    "instagram",
+    "node instagram",
+    "wrapper instagram",
+    "user instagram"
+  ],
+  "author": "zechaos",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^10.0.4"
+  }
+}
